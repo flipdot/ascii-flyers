@@ -2,14 +2,6 @@
 
 Generates small flyers for inviting people to events at the hackerspace.
 
-## Installation
-
-Install prerequisites using pip
-
-```
-pip install -r requirements.txt
-```
-
 ## Usage
 
 The following could be used to generate a preview with crop marks:
